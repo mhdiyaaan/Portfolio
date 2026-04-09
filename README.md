@@ -8,7 +8,7 @@ A personal portfolio website built with **React**, **Tailwind CSS**, and **Vite*
 
 ## 📸 Preview
 
-![Portfolio Preview](https://api.screenshotone.com/take?url=https://portfolio-two-puce-42.vercel.app&viewport_width=1280&viewport_height=720&format=jpg)
+![Portfolio Preview](https://shots.so/api/preview?url=https://portfolio-two-puce-42.vercel.app&width=1280&height=720)
 
 ---
 
